@@ -1,0 +1,751 @@
+index	metaphor_label	sentence	pos_tag	word_index	metaphor_word
+0	1	The approach to the University is being restructured to ease the flow of traffic	NN	1	approach
+1	1	All these projects are being executed with an eye to aesthetics.	NN		eye
+2	1	I have gone to these lengths to itemize these examples of current development.	NN	5	lengths
+3	1	We therefore appeal to you to bear with us in full	ADJ	10	full
+4	1	We will soon yield tangible results.	VBN	3	yield
+5	0	To demonstrate our capacity for executing approved projects		-1	
+6	1	We are up to the task.	RB	2	up
+7	0	Man might be good.		-1	
+8	1	If you look at the folly and cruelty of todays world	VBP	2	look
+9	0	But human nature can be changed.		-1	
+10	1	The art of changing people has been lost in the modern world.	VBN	7	lost
+11	1	That is why the modern world has lost its way.	NN	9	way
+12	1	There are two ways of looking at human nature.	NNS	3	ways
+13	1	That is what most people in the free world do today.	ADJ	7	free
+14	1	They do not expect faith to change men.	VB	6	change
+15	1	Another way of dealing with human nature is to exploit it.	NN	1	way
+16	1	Vanity, fear, ambition, lust and greed are used to control the life of men	VB	12	control
+17	1	This point of view is widely accepted as right and proper	DT	0	This
+18	1	To send prisoners back to the outside world is to confirm them in their old way of life.	NN	15	way
+19	0	Training for work and training by work.		-1	
+20	1	The prisoner needs to be trained in habits of industry	VBN	5	trained
+21	1	He may find a pride of achievement in something more satisfying	VB	2	find
+22	1	But these things can only come when the work itself has a purpose and demands an effort.	DT	1	these
+23	1	It is now a worldwide organization dedicated to helping needy children everywhere.	VBN	6	dedicated
+24	1	Our job in Malawi is to give those unfortunate children the rights that they are deprived of through no fault of theirs.	VB	6	give
+25	1	One of those who benefited from the help of the Fund is Samuel Mpetechula	DT	2	those
+26	0	His sponsorship started in 1967.	-1
+27	1	They even built a house for me at home and looked after my family while I was a student.	IN	11	after
+28	1	They were really helpful to me	TO	4	to
+29	1	Another important function of the work of the SCF is in the field of nutrition.	NN	12	field
+30	1	They can be bribed or forced to play their part	VBN	5	forced
+31	1	Of course, there is an element of trust in this view of the tribal artist as copyist	NN	6	element
+32	0	He tried to pull the fish in but it slipped off the hook		-1	
+33	0	Alan put down his rod and went through the gate		-1	
+34	1	The picnickers spent the rest of the day searching the field.	VBD	2	spent
+35	0	Silk is one of the strongest of fibres.		-1	
+36	0	silk fabrics have been regarded as the most beautiful and durable materials woven by man.		-1	
+37	0	silk is the cloth of kings and queens		-1	
+38	0	The weaving of silk originated in China		-1	
+39	0	The Empress took some of the cocoons into the palace to see what they were made of.		-1	
+40	1	She was delighted with the discovery	IN	3	with
+41	1	People in other countries regarded the new fibres as something rare and beautiful.	VBD	4	regarded
+42	1	A few traders went to China to learn about making cloth from silk	IN	8	about
+43	1	Mathematics is the language in which the Book of Nature is written	IN	4	in
+44	1	Mathematics is the queen of the sciences.	NN	3	queen
+45	1	It is universally agreed that Mathematics is the backbone of Science and Technology.	NN	8	backbone
+46	1	For without Mathematics the engineer is but an artist or a sculptor.	IN	1	without
+47	0	Mathematics is indeed the science of sciences.		-1	
+48	1	Thus the poet arranges words to produce a pattern called poetry	VB	6	produce
+49	1	Days passed fast for Ntanya and Teresa.	VBD	1	passed
+50	0	They could hardly notice the land getting brown all over Kachawanga		-1	
+51	1	neither of them hardly noticed any more when the sun come up and go down.	VB	10	come
+52	1	Ntanya would work very hard in the field hauling in the last harvest.	RB	4	hard
+53	1	She would cook his meal with extra care.	IN	5	with
+54	0	When there was little meat she would only give bits to the children.		-1	
+55	1	She would not even touch it herself but use only the smell to get her food down	VB	13	get
+56	0	reserve the whole chunk for her husband		-1	
+57	1	every bolus that went down tanya's throat would also go down her own throat.	VBD	3	went
+58	1	I come before you this evening as a man whose honesty and integrity have been questioned.	DT	4	this
+59	1	the usual political thing to do when charges are levelled against you is either to ignore them or to deny them	NN	3	thing
+60	1	let me state categorically that I have not touched a kobo of the N50,000 we contributed	NN	2	state
+61	1	Every kobo of it has been used in defraying political campaign expenses.	IN	7	in
+62	1	You will find that the purpose of the fund was primarily to defray political expenses	VB	2	find
+63	1	And I can say that never, since I became a Senator, have I made a telephone call.	VBD	15	made
+64	1	Those who are familiar with it will tell you that Ludo is a game of chance and skill.	DT	0	Those
+65	1	You need skill in deciding how to make the most advantageous use of the figures that turn up on the die when you cast it.	IN	3	in
+66	1	The element of luck, again as in human life, plays a dominant role however.	NN	1	element
+67	1	While a combination of ones and twos may be useful in checking the advance of one’s opponents	IN	10	in
+68	1	it will not take one home fast enough to win.	VB	3	take
+69	1	There are one or two things this country can teach others	NNS	5	things
+70	1	One suspects that the reason why some of our newspapers still manage to break even is because of the great amount of revenue they derive from obituaries.	VBP	11	manage
+71	1	One possible explanation for this is that Nigerians value their dead greatly.	DT	4	this
+72	1	And there is a saying amongst us that you do not say evil things against the dead.	NN	5	amongst
+73	1	This is obviously the philosophy behind the large dose of encomiums with which our dead are bestowed.	DT	0	This
+74	1	You all know how friendly we are with Okperi	IN	7	with
+75	0	I speak as your elder brother		-1	
+76	1	I can tell you that there is no escape from the whiteman.	NN	8	escape
+77	1	When suffering knocks at your door and you say there is no seat left for him	NNS	2	knocks
+78	1	Then I knew there was no escape.	NN	6	escape
+79	1	As daylight chases away darkness	RB	3	away
+80	0	the white man drive away all our customs.		-1	
+81	1	I know that as I say it now it passes by your ears	IN	2	that
+82	1	The white man has power which comes from the true God and it burns like fire.	VBZ	3	has
+83	1	We are talking about the white man's way	IN	3	about
+84	0	when the roof and the walls of a house fall in		-1	
+85	0	the ceiling is not left standing.		-1	
+86	1	records of events were kept only in people’s minds.	VBN	4	kept
+87	1	It depended very much on the retentive power of the human memory	IN	4	on
+88	1	Interminable arguments were thus the order of the day.	NN	5	order
+89	1	these dangers have been largely overcome.	DT	0	these
+90	1	To listen properly is hard job	JJ	4	hard
+91	1	Good listening has nothing to do with proper functioning of one’s auditory organs	VBZ	2	has
+92	0	The ability to listen properly aids communication and understanding.		-1	
+93	1	In the past learning English as a separate subject seemed relatively easy.	IN	0	In
+94	0	New items were carefully controlled so that the student could cope quite easily.		-1	
+95	1	Difficulties with the language interact with difficulties as regards the subject matter.	IN	1	with
+96	1	The student’s reading in his own subject slows down and his comprehension becomes less secure.	IN	5	in
+97	1	He expresses himself slowly and often fails to convey his ideas exactly.	VB	8	convey
+98	1	the language seems now to be in control of the student.	IN	6	in
+99	1	His eyes widened as they fell upon something strange.	VBD	5	fell
+100	0	Something was moving slowly and cautiously along the gutter.		-1	
+101	1	The pale yellow and brown of the snake’s body glistened like a stream of flowing metal.	NN	1	pale
+102	1	its slow movements betrayed uneasiness and confusion.	VBN	3	betrayed
+103	1	As he watched it his instinctive antipathy melted away.	VBD	7	melted
+104	1	The snake was nursing a cold anger that could find no vent.	VBG	3	nursing
+105	1	It moved forward until a light touch from the twigs fell upon its head.	JJ	5	light
+106	1	The little plant was now doing no more than slightly swaying and dipping.	VBG	5	doing
+107	1	And there was the snake writhing in agony.	IN	6	in
+108	0	The world is mystery and horror.		-1	
+109	1	The psychologist means that the child is aware that he is a self and not an extension of his mother.	NN	16	extension
+110	1	An adult is able to weigh the consequences of his actions	VB	5	weigh
+111	0	he has developed a concept of the idea of time.		-1	
+112	1	The young child lacks this concept and is governed by immediate desires which must be fulfilled.	VBZ	3	lacks
+113	1	Thus in some situations, he can be excused for not behaving morally, i.e., making the choice which is ‘good’ for himself and others.	IN	1	in
+114	1	In other situations, he knows what is right and chooses not to do it.	IN	0	In
+115	1	Immature adults can also behave in this self-centred way.	IN	5	in
+116	1	If we examine the opportunities for education of girls or women in less developed countries, we usually find a dismal picture.	VBP	2	examine
+117	1	In some countries, the ratio of boys to girls in secondary schools is more than seven to one.	TO	8	to
+118	1	What happens to the girls?	TO	2	to
+119	1	Often they are kept at home to look after younger siblings and to perform a variety of domestic chores.	IN	8	after
+120	1	Their education is not perceived as in any way equal in importance to that of boys.	VBN	4	perceived
+121	1	When a non-literate or barely literate girl reaches adolescence, she has little or no qualification for employment, even if her community provides any opportunity for the employment of women.	VBZ	7	reaches
+122	1	The solution is to get her married as soon as possible, with the inevitable result that she produces children too soon, too often and too late.	IN	12	with
+123	1	With no formal education, she is hardly aware that there is any alternative.	IN	0	With
+124	1	In a study made in Thailand, it was noted that the literate woman marries later and ceases childbearing earlier than her non-literate counterpart.	IN	0	In
+125	1	But the latter is so chained to her household by the necessities of gathering fuel, preparing food and tending children that she is very difficult to reach, even if health services, nutrition, education, maternal and child health centers are available in her community.	JJ	5	chained
+126	0	She does not understand what they are intended to do.		-1	
+127	1	The importance of the code theory in education lies in the fact that the school system requires the use of an elaborated code but not all students have access to it.	IN	6	in
+128	1	The importance of this theory to sociology lies in the fact that the differential access to the elaborated code does not occur randomly but rather is controlled by the class system.	DT	3	this
+129	1	Lower working-class urban children tend to have a restricted code.	JJR	0	Lower
+130	1	Middle-class children possess both a restricted and an elaborated code.	IN	2	possess
+131	1	The two groups enter into different types of relationships and learn to express themselves in different ways through language.	VBP	3	enter
+132	1	They do not use language for the same functions, some of which, it seems, are necessary for the school situation.	NN	22	situation
+133	1	When the lower working-class child is expected implicitly to exploit language for functions he normally does not express verbally, a discontinuity is created between his home and his school environment.	JJR	2	lower
+134	1	He has learned to verbalize a certain range of meanings in his home and when he enters school, another range of meanings is required.	NN	7	range
+135	1	There is, then a very subtle, but but nonetheless very real, sense in which what is taught is personally irrelevant for this child.	NN	14	sense
+136	1	The school system does not talk to him.	VB	5	talk
+137	1	The young are not listening to their elders, and perhaps they never have.	TO	5	to
+138	1	But now it happens that, with many of them, the reason may be medical.	IN	6	with
+139	0	The young aren’t listening because they can’t hear.		-1	
+140	1	Just as nagging parents have long suspected, otologists (hearing specialists) now report that youngsters are going deaf as a result of blasting their eardrums with electronically amplified rock ‘n’ roll.	VBG	24	blasting
+141	1	The hearing specialists used to worry about loud noise as a cause of deafness only in industrial and military situations.	IN	6	about
+142	1	They knew that eight hours of daily exposure, year in and year out, to the din of the proverbial boiler factory, would eventually result in permanent hearing loss.	IN	10	in
+143	0	Riveters were particularly susceptible.		-1	
+144	1	Then they learned that the same thing happened to aviators.	NN	6	thing
+145	1	After the advent of jets, the hazard applied to ground crews at airports and flight-deck personnel aboard aircraft carriers – hence the introduction of insulated, noise-absorbing plastic earmuffs.	IN	0	After
+146	1	In discotheques and rock ‘n’ roll joints, the trouble is not much in the instruments themselves, or the close quarters.	NNS	8	joints
+147	1	The blame goes to the electronic amplifiers.	VBZ	2	goes
+148	1	An old-fashioned military band, playing a march in Ramat Park, generated as much sound.	VBD	12	generated
+149	0	But the sound was not amplified and was dissipated in the open air.		-1	
+150	1	A trombonist sitting in front of a tuba player might be a bit deaf for an hour or so after a concert; then his hearing returned to normal.	IN	19	after
+151	0	A microphone hooked up to a public address system did not appreciably increase the hearing hazard.		-1	
+152	0	What he did was multiple microphones and speakers, and the installation of internal microphones in such instruments as guitars and bouzoukis.		-1	
+153	1	One fact that we have to comprehend is that, in our unconscious mind, we cannot distinguish between a wish and a deed.	IN	10	in
+154	1	We are all aware of some of our illogically dreams in which two completely opposite statements can exist side by side–very acceptable in our dreams but unthinkable and illogical in our walking state.	IN	10	in
+155	1	Just as our unconscious mind cannot differentiate between the wish to kill somebody in anger and the act of having done so, the young child is unable to make this distinction.	VB	7	differentiate
+156	1	The child who angrily wishes his mother to drop dead for not having gratified his needs will be traumatized greatly by the actual death of his mother – even if this event is not linked closely in time with his destructive wishes.	DT	30	this
+157	1	He will always take part of or the whole of the blame for the loss of his mother.	VB	3	take
+158	1	He will always say to himself – rarely to others – ‘I did it. I am responsible. I was bad, therefore mummy left me.’	TO	4	to
+159	1	It is well to remember that the child will react in the same manner if he loses a parent by divorce, separation or desertion.	VB	9	react
+160	1	Death is often seen by a child as an impermanent thing and has therefore little distinction from a divorce in which he may have an opportunity to see a parent again.	VBN	3	seen
+161	1	Undergraduate students in psychology and education come to their first course in statistics with diverse expectations of and backgrounds in mathematics.	IN	2	in
+162	1	Some have considerable formal training and quantitative aptitude and look forward to learning statistics.	VBP	1	have
+163	1	Other – perhaps the majority, including some of those who aspire to postgraduate studies – are less confident in their quantitative skills.	DT	9	those
+164	1	They regard a course in statistics as a necessary evil for the understanding or carrying out of research in their fields, but an evil nonetheless.	VBP	1	regard
+165	1	This third edition, like this predecessor, is directed primary at the latter audience.	DT	0	This
+166	1	It was written with the conviction that statistical concepts can be described simply without loss of accuracy and that understanding of statistical techniques research tools can be effectively promoted by discussing them within the context of their application to concrete data rather than as pure abstractions.	IN	3	with
+167	1	Further, its contents are limited to those statically techniques that are widely used in the literature of psychology and to the principles underlying them.	NNS	3	contents
+168	1	The changes that have been made in this edition reflect both the results of our teaching experience and the increasing prominence being given by statisticians to certain topics.	VBN	5	made
+169	1	Thus our discussions of some procedures, particularly those in the realms of descriptive statistics, which students grasp easily, have been shortened or rearranged.	DT	8	those
+170	1	The treatment of other topics has been expanded.	NN	1	treatment
+171	1	Greater emphasis has been placed on sampling theory, hypothesis testing, and the notion of statistical power.	NN	1	emphasis
+172	1	Our planet is at risk.	IN	3	at
+173	0	Our environment is under threat.		-1	
+174	1	The air we breathe, the water we drink, the seas we fish in, the soil we farm, the forest, animals and plants which surround us are in danger.	IN	14	in
+175	0	New terms and words describe these problems – acid rain, the greenhouse effect, global warming, holes in the ozone layer, desertification and industrial pollution.		-1	
+176	0	We are changing our environment.		-1	
+177	0	More and more gases and wastes escape from our factories.		-1	
+178	0	Rubbish, oil spillages and detergents damage our rivers and seas.		-1	
+179	1	Forests give us timber and paper, but their loss results in soil erosion and also endangers wildlife.	VBP	1	give
+180	0	The richer countries of the world are mainly responsible for industrial pollution.		-1	
+181	1	This Is where most of all the commercial energy is produced.	DT	0	This
+182	1	In developing countries, poverty causes people to change their environment – to overgraze grasslands, to cut down trees for new land and firewood, to farm poor soil for food.	JJ	28	poor
+183	0	The United Nations Environmental Protection Agency says that an area of forest the size of Sierra Leone disappears every year.		-1	
+184	0	Trees are cut down for timber which is used for building, furniture, paper and fuel.		-1	
+185	0	They are also destroyed to provide land on which to graze animals and build new villages and towns.		-1	
+186	1	But trees have many other important uses.	VBP	2	have
+187	1	Trees protect the land from heavy downpour of rain and their roots help to hold the soil together.	IN	4	from
+188	1	Forests are also the home of many living things.	NN	4	home
+189	1	The amazon forest contains one fifth of all the species of birds in the world.	VBZ	3	contains
+190	1	In our forest, there may be plants and animals which could help in the discovery of new medicines or crops.	IN	13	in
+191	1	To rescue and converse our beautiful world, we must act cooperatively.	NN	1	rescue
+192	1	Individuals, communities, nations and international associations, all have a responsibility.	VBP	10	have
+193	0	By learning to protect the natural environment, we can manage the earth’s resources for generations to come.		-1	
+194	0	Listen, my fellow women.		-1	
+195	1	The issue has little to do with being literate or not.	VBZ	2	has
+196	1	It is true that most members of NAM (NewAwareness Movement) are literate, but this does not make all of us enlightened.	NNS	5	members
+197	1	We must be able to draw a line between the two.	VB	5	draw
+198	1	You may be literate and yet possess a consciousness that is decadent and servile.	VB	6	possess
+199	1	On the other hand, you may not have received any formal education and yet may be the greatest exponent of progressive ideas.	IN	0	On
+200	1	I agree with what our sister has said.	IN	2	with
+201	1	Let us not allow ourselves to be divided by a greedy and an inflated notion of the certificates we possess.	VBN	7	divided
+202	1	In this century, as we march towards the year 2000, our primary concern should be how best to improve the lot of womanhood in our society.	IN	0	In
+203	0	Let us not forget that for each woman who is beaten up by her man for flimsy reasons, the status of all of us here is downgraded.		-1	
+204	1	For each woman who is insulted for no other reason than that of her sex, every one of us here is spat on in the face.	DT	11	that
+205	1	For each woman who is denied opportunities in society simply because she is a woman, the whole lot of us here are dehumanized.	IN	7	in
+206	1	Each widow in this society is a woman, and the lot of us should be viewed as collective.	IN	2	in
+207	1	Each decayed tomato that is cast at her is a collective curse on our fecundity: each pebble thrown at her, a missile against our very womanhood.	VBN	5	cast
+208	1	This Is an age of awareness, and it is the duty of NAM to collectively rise in defence of the rights of women.	DT	0	This
+209	0	We can no longer allow ourselves to be fried alive.		-1	
+210	1	We are going to squeeze ourselves into tight-fitting trousers, register into judo classes, and then file out into the street and punch the face of every man we behold.	IN	6	into
+211	1	When I set out for London, little did I suspect that I was not on a journey to God’s own city where harmony reigned supreme.	IN	15	on
+212	1	So used to the frenzied life of Lagos was I that I had come to associate that city with everything that was chaotic, and there was no doubt in my mind that Lagos was one giant symbol of our backwardness.	TO	2	to
+213	1	As the plane taxied its way out of the tarmac of our national airport, I heaved a sigh of relief, not so much because I was leaving my own country as that I was being relieved of the tension that had possessed me during those tense hours in the untidy lounge.	VBN	43	possessed
+214	1	I had felt so uneasy, my thoughts racing from one uncertainty to another.	VBN	2	felt
+215	1	But I was at last air-borne, moving away from the whole uncertainty, from the whole load of fear, towards a place which I supposed would be an El Dorado.	RB	8	away
+216	1	Everything that happened in the plane passed through my eyes like pictures on the screen.	VBD	6	passed
+217	1	The white air hostess who instructed me on how to use the safety belt was an angel, what with her beauty, her pretty blue dress, and her ever-smiling face.	IN	7	on
+218	0	The same lady of the air served me snacks and supper.		-1	
+219	1	Another angel, whose queenly voice through an invisible public address system, dished out occasional information on the progress of our journey.	NN	1	angel
+220	1	I had never felt so relaxed, and my jolted heartbeats each time the plane took what appeared like a sudden brief descent, did not matter.	VBN	3	felt
+221	1	When eventually we were set for landing, the anxiety that came over me was almost thrilling.	VBN	4	set
+222	0	What was the wonderland going to be like?		-1	
+223	1	So overwhelmed was I that I almost lost consciousness of what happened thereafter.	VBD	7	lost
+224	1	But I would never forget the shock that greeted me when we arrived in the tube station and boarded a train to behold the sea of white faces and the furtive glances from apparently indifferent co-passengers.	VBD	8	greeted
+225	1	I believe that the nostalgic feeling for Lagos which later became part of my life all my days in London began at this point.	NN	11	part
+226	1	Politics In pre-colonial times did not involve the partisan type of electioneering campaign that we now have.	IN	1	In
+227	1	The society was ruled by a king or an emir and his traditional chiefs or by the council of elders or clan heads.	NNS	22	heads
+228	1	Where there existed the hierarchical system as in the Yoruba and Hausa kingdoms, succession to the throne was mainly patriarchal.	WRB	0	Where
+229	1	A recorded exception was the case of Queen Amina of the Zazzau Empire who ruled in the 15th century A.D a host of unsung and unrecorded women regents and at times women village rulers abound, especially in the present Ondo State where some influential traditional female chiefs and regents still exist.	IN	15	in
+230	1	In Ibadan, the famous Efunsetan Aniwura held political as well as economic sway and it took a lot of drive, brain work and political engineering for the then king and his council of chiefs to subdue her.	VBD	7	held
+231	1	The history of the various towns and villages of the period could boast of such women who were actively engaged in the running of government.	VB	12	boast
+232	1	In the Igbo society, a rise to leadership position was through demonstrated ability in fostering societal survival rather than heritage.	IN	0	In
+233	1	Women’s voice in the politics of each clan is given focus either through the guild of wives, the guild of daughters, or the market women’s guild.	NN	3	voice
+234	1	Women, through these organs, could make their feelings known on any issue affecting their community as a whole or females in particular.	IN	2	through
+235	1	Thus, unpopular edicts or ‘decrees’ could be revoked or revised as a result of mounting pressure from any of these female associations.	VBG	17	mounting
+236	1	No decision was usually taken by the men without prior consultation with the leaders of the women’s groups.	VBN	4	taken
+237	1	It must however be emphasized that the degree of women participation in politics was yet much limited when compared to that of men.	NN	7	degree
+238	1	Whenever I have had to ask myself the question "why I have not left this country for good?", many answers rush to my mind, each striving to be recognized as being the most cogent.	DT	15	this
+239	1	I am reminded of the popular slogan that 'this country belongs to us all’, for which reason every Nigerian must join hands in trying to salvage it.	NNS	10	belongs
+240	1	I try to dismiss the argument by reasoning that it is foolhardy attempting to lend a helping hand where one's services are apparently not required.	VB	3	dismiss
+241	1	Then I am reminded that if I left the country in a hurry just because of our political instability and economic hardships, my commitments to family at home would suffer.	IN	10	in
+242	0	I reply by saying that as soon as I got settled abroad, I would arrange for my family to join me.		-1	
+243	1	Other financial problems at home would be taken care of by regular remittances.	VBN	7	taken
+244	1	Would I then never think of going back home in future? Not until the situation in the country improved considerably, I would answer.	IN	9	in
+245	1	And who did I expect to carry on with the task of national rehabilitation when the likes of me are all out of the country? Those who messed up the country in the first place, I would argue.	IN	8	with
+246	1	And so on.	IN	2	on
+247	1	This dialogue of self has been going on for the last ten years or so; meanwhile, I am yet to leave the country.	DT	0	This
+248	1	When I wonder how many people share my kind of mental experience, realize that we must be very few.	NN	6	share
+249	1	For not many have the slightest opportunity of absconding from the country; they do not have the place to run to, nor do they have the means of escape.	VBP	3	have
+250	1	Even among the elite who consider this possibility, the uncertainty of a future outside their fatherland intimidates.	IN	1	among
+251	0	And so we all end up staying and mumbling.		-1	
+252	0	Chike must have passed the house five times.		-1	
+253	0	And yet he was still not sure.		-1	
+254	1	Was this the house he had visited so often in the past?	DT	1	this
+255	0	The house he used to visit was a bungalow.		-1	
+256	1	This house, too, was a bungalow.	DT	0	This
+257	1	The old house was situated between two-storeyed building: this one too was situated.	DT	9	this
+258	1	But in spite of this feeling of certainty, Chike had a vague suspicion that the house he had passed so often that day might be the wrong house after all.	DT	4	this
+259	1	Could an absence of two years have blurred his memory so badly?	VBN	7	blurred
+260	1	After a few moments’ hesitation, Chike began to move towards the house and then stopped, as if held back by an invisible hand.	IN	0	After
+261	1	His attention had been attracted by a girl of about twenty-four, who was tripping along the pavement to his right.	VBN	4	attracted
+262	1	He turned and advanced towards her, and was about to call her by what he felt was her name when he discovered that he had made a mistake in respect of her identity.	IN	9	about
+263	1	Just as Chike turned from the girl to continue his quest, he heard voices shouting, ‘thief! thief!’ and saw a crowd materialize in seconds.	IN	4	from
+264	1	At the head of this justice-compelled rabble was a ludicrously fat woman who, in spite of her size, bounced along with the agility of a prize athlete.	IN	0	At
+265	1	This barrel bellowed loudest and clapped her hands vigorously to punctuate her outburst.	DT	0	This
+266	0	And as she did so the surplus flesh on her pudgy arms quivered.		-1	
+267	1	‘They are all the same’, this woman screamed, addressing nobody in particular.	DT	8	this
+268	1	‘They dress gorgeously, but underneath they are rogues.’	IN	6	underneath
+269	0	Again, she clapped her hands and again, there was a quivering of loose flesh.		-1	
+270	1	Chike was so busily occupied with watching the antics of this woman that he did not notice at first that the object of her venom was the girl he had seen earlier.	IN	5	with
+271	1	It was this girl that was now surrounded by the crowd, with many people groaning.	DT	2	this
+272	1	Sighing and hissing in unison.	IN	3	in
+273	0	Chike relaxed, and prepared to watch the drama unfolding before him.		-1	
+274	1	Theatre in the recent past used to be a very popular art in traditional African society.	IN	1	in
+275	1	It used to be a point of intersection where members of the community not only come to entertain themselves, but ‘join heads together’.	NN	5	point
+276	1	In the traditional context of African drama therefore, Theatre was a popular and respectable institution, which preserved the people’s culture and tradition.	IN	0	In
+277	1	Theatre was popular with the people because it emphasized community participation, peace and progress.	IN	3	with
+278	1	The presentations focused on the people's lives, their aspirations, fears and hopes.	VBD	2	focused
+279	1	But today, the situation is different.	NN	4	situation
+280	0	Theatre is becoming very unpopular.		-1	
+281	1	Africa of the present age is preoccupied with many problems yearning for immediate solutions.	IN	7	with
+282	1	The continent is facing hydra-headed challenges --- challenges on the political, social and economic scenes.	VBG	3	facing
+283	1	In a world where science and technology are seen as the solutions to these problems, little attention is paid to the arts.	IN	0	In
+284	1	Literature generally, and drama in particular, is often rated very low on the utility scale.	VBN	10	rated
+285	1	Many in Africa today look at drama and theatre as a mere thing of fun, a joke so to say.	VBP	4	look
+286	1	Elitism is another barrier that militates against the appreciation of theatre as a communal art.	NN	3	barrier
+287	0	Folk theatre is appreciated by a negligible number of people.		-1	
+288	1	Contemporary focus is on literary theatre.	NN	1	focus
+289	0	Unfortunately.		-1	
+290	1	Literary theatre only pretends to serve the interest of its society while in reality it has a foreign audience in mind.	VB	5	serve
+291	1	The use of Europeans and American theatrical conventions by our academic playwrights can bear witness to this anomaly.	VB	13	bear
+292	1	The popularity of the literary African theatre is further marred by the medium of communication as most literary dramas in Africa are written in foreign languages, which are not understood by many Africans.	NN	12	medium
+293	1	The question often asked is whether the artist should climb down to the level of his community or stay at his exalted height and wait for the community to gradually move up to him.	VB	9	climb
+294	1	Those who have visited the city of Jos in Nigeria attest to its uniqueness.	DT	0	Those
+295	1	The first striking thing to notice, perhaps, is the benevolence of the climate.	NN	3	thing
+296	1	It will be no exaggeration to say that in no other Nigerian city does one feel so much at peace, so relaxed, with the climate as in Jos.	NN	15	feel
+297	1	When people say that Jos is cool, the remark is always a compliment, referring to the cool, serene feeling of being at peace with nature, which one experiences in the city.	VBG	15	referring
+298	1	This Feeling is topographically symbolized by the surrounding rocky hills, which adorn the horizon from every angle of the city.	DT	0	This
+299	1	These hills remind you of castles, except that whereas castles are man-made, the hills of Jos are natural.	DT	0	These
+300	1	Population has at last made the grade and emerged as a world problem.	VBD	4	made
+301	1	Unfortunately, most of those who speak or write about it persist in thinking of it in terms of a race between human numbers and world resources especially of food - a kind of competition between production and reproduction.	DT	4	those
+302	1	Certainly, the statistics churned out are important revealing that indeed, there is a population explosion.	RP	5	out
+303	1	But the real explosion is a twentieth century phenomenon, due primarily to the spectacular development in medicine and hygiene.	NN	3	explosion
+304	1	This has drastically cut down death rates without any corresponding reduction in birth rates; death control without birth control.	DT	0	This
+305	1	World population, we are told, has more than doubled since 1900 and will certainly reach well over 5 and a half billion and possibly 7 billion by the magical year 2000.	VB	16	reach
+306	1	The population has brought us up against a number of tough ecological facts.	VBN	3	brought
+307	1	Man is at last pressing hard on his spatial environment - there is little leeway left for his colonization of new areas of the world’s surface…	VBG	4	pressing
+308	0	What are people for?		-1	
+309	1	Surely people do not exist just to provide ‘bomb-fodder’ for an atomic bonfire or ‘religious fodder’ for rival religion sects or ‘cannon-fodder’ for rival national armies or rival political parties or even 'consumer-fodder’ for profit making systems.	NN	18	fodder
+310	1	It cannot be their aim just to eat, drink and be merry and to hell with posterity nor to live out their undernourished lives in some squalid Asian or African village.	NN	5	aim
+311	1	Man’s dominant aim must be to increase in quality-quality of human personality, of achievement, of inner experience, quality of life and of living in general.	NN	4	aim
+312	1	Fulfillment is probably the embracing word; more ‘fulfillment’ equals more satisfaction and less frustration for more Homo sapiens.	NN	4	embracing
+313	1	Man wants more varied and fuller achievement in the society as opposed to drabness and shrinkages.	JJ	5	fuller
+314	1	We want more knowledge and more interest as against ignorance and apathy.	IN	8	against
+315	0	Then would we know that the spatial environment is not as small as we think.		-1	
+316	1	There is another interesting fact about eye movement.	IN	5	about
+317	1	If you record the eye movements of someone who is reading you will notice that from time to time the reader goes back and looks again at something he has read before; in other words, he regresses to an earlier part of the text probably because he realizes he does not understand the passage properly.	TO	17	to
+318	0	Then he comes back to where he left off and continues reading.		-1	
+319	1	At one time, it was thought that regression was a fault, but it is a fact a very necessary activity in efficient reading.	IN	0	At
+320	1	There are several different kinds of faults in reading, which are usually more exaggerated with foreign learners.	IN	7	in
+321	0	The most common one is that most people read more slowly than they should.		-1	
+322	1	There is no rate at which people ought to read of course; it depends on your purpose in reading, how difficult the language is, how unfamiliar the material is and so on.	NN	3	rate
+323	1	But most people read everything at the same slow speed and do not seem to realize that they can read faster or slower as required.	IN	5	at
+324	1	Other people say the words to themselves or move their lips - these habits slow the reader down to something near speaking speed, which is of course much slower than reading speed.	TO	5	to
+325	1	Another habit which can slow you down is following the line with your finger, or with a pen.	NN	1	habit
+326	1	If you want to be able to read faster the secret is simply to practice under timed conditions.	IN	15	under
+327	1	This means that you should give yourself a certain amount of time to read with understanding then check your time when you have finished.	DT	0	This
+328	1	Students who have practiced fast reading even for only an hour a week, have shown average improvements of over 50% over a term of ten weeks’ duration.	VBN	15	shown
+329	1	Reading fast does not necessarily mean reading with less comprehension - in fact students usually show small increases in comprehension as well as a dramatic increase in speed.	IN	7	with
+330	1	If present trends continue, the world would face a major crisis by the end of this century: insufficient cheap, convenient energy.	VB	8	face
+331	1	For without such energy, industrial production will fall, agricultural output will drop, transport will be restricted and standard of living in developed countries will plummet.	VB	8	fall
+332	1	At present, almost all our energy comes from fossil fuels.	VBZ	7	comes
+333	0	The earth’s reserves of fossil fuels have been formed from organic matter subjected to enormous heat and pressure for millions of years.		-1	
+334	0	But such reserves are finite.		-1	
+335	1	Because power demand is increasing very rapidly, fossil fuels will be exhausted within a relatively short time.	JJ	16	short
+336	0	We can estimate the amount of recoverable fuel under the surface of the earth and we know the rate at which it is being extracted.		-1	
+337	1	Fairly simple calculations can therefore determine its remaining life.	JJ	1	simple
+338	1	If present trends continue, gas and oil reserves will be exhausted by the middle of the 21st century – about 70 years from now.	NN	14	middle
+339	1	When Thomas Jefferson wrote in the American Declaration of Independence that ‘all men are created equal’, he was not seeking to describe men’s endowments, but their political and legal rights.	IN	4	in
+340	1	He was not saying that men do not differ from one another in the powers and dimensions of their bodies, minds and characters.	IN	9	from
+341	1	He was asserting that, despite variations and differences, they all possessed the right to equal political and legal treatment.	VBD	12	possessed
+342	1	We must, however, ask of what real value are political and legal equality to a man who has no bread to eat, no clothes to wear, no roof to shelter him, no chance to earn a livelihood?	NN	9	value
+343	1	What we understand as democratic society must provide for its citizen’s minimum status as a member of that society, that keeps him from becoming a beggar, outcast or outlaw and that offers him some protection in his deprivation, losses and fears.	VB	7	provide
+344	1	In our time, the nations of the democratic world have installed elaborate systems of social security and welfare, ranging from compensation for industrial accidents to subsidized housing, unemployment insurance, old age pensions, to provide against the characteristic losses and disasters of human life.	IN	0	In
+345	1	The evolving status of the Negro in America is attracting the attention of the champions of equality.	VBG	9	attracting
+346	1	Much has been written on the wrongs, injustices and inequalities of the colored citizens of the USA and much remains to be said, because the history of this struggle for human rights is still unfolding.	IN	4	on
+347	1	In many places in the world today, the poor are getting poorer while the rich are getting richer, and the programs of development planning and foreign aid appear to be unable to reverse this trend.	VB	34	reverse
+348	1	Nearly all the developing countries have a modern sector, where the patterns of living and working are similar to those in developed countries.	VBP	5	have
+349	1	But they also have a non-modern sector, where the patterns of living and working are not only unsatisfactory, but in many cases are even getting worse.	VBP	3	have
+350	0	What is the typical condition of the poor in developing countries?		-1	
+351	1	Their work opportunities are so limited that they cannot work their way out of their situation.	NN	12	way
+352	1	They are underemployed, or totally unemployed; when they do find occasional work, their productivity is extremely low.	VB	11	find
+353	0	Some of them have land, but often too little land.		-1	
+354	1	Many have no land, and no prospect of ever getting any.	NN	7	prospect
+355	1	There is no hope for them in the rural areas and so, they drift into the big cities.	VBP	14	drift
+356	0	But there is no work for them in the big cities either -- and of course no housing.		-1	
+357	1	All the same, they flock into the cities because their chances of finding some work appear to be greater there than in the villages – where they are nil.	VBG	13	finding
+358	1	Rural unemployment, then, produces mass-migration into the cities; rural unemployment becomes urban unemployment.	VBZ	5	produces
+359	1	The problem can be stated quite simply: what can be done to promote economic growth outside the big cities, in the small towns and villages, which still contain 80 to 90% of the total population?	NN	15	growth
+360	0	The primary need is workplaces, literally millions of workplaces.		-1	
+361	0	Time was when boys used to point toy guns and say ‘Bang!’		-1	
+362	0	Now, they aim real guns and shoot one another.		-1	
+363	1	Nearly 4,200 teenagers were killed by firearms in 1990.	IN	7	in
+364	1	Only Motor vehicle accidents kill more teenagers than firearms and the firearms figures are rising.	VBG	14	rising
+365	1	The chance that a black male between the ages of 15 and 19 will be killed by a gun has almost tripled since 1985 and almost doubled for white males, according to the National Centre for Health Statistics.	IN	6	between
+366	1	Who could disagree with Health and Human Services Secretary, Donna Shalala, when she pronounced these statistics ‘frightening and intolerable?’	IN	3	with
+367	1	In the shameful light of this waste of young lives’ in Ms. Shalala’s words, an often-asked question seems urgently due to be raised again: Would less violence on television – the surrounding environment for most children and young adults – make violence in actual life less normal, less accepted, less horrifying?	IN	0	In
+368	1	It may be difficult to prove an exact correlation between the viewer of fantasized violence and the criminal who acts out violence after turning off the set.	IN	9	between
+369	1	But if the premise of education is granted – that good models can influence the young – then it follows that bad models can have an equivalent harmful effect.	VBN	7	granted
+370	1	This is the reasonable hypothesis held by 80 percent of the respondents to a recent Times Mirror poll who think that violent entertainment is harmful to society.	DT	0	This
+371	1	Witness enough mimed shootouts, see enough ‘corpses’ fall across the screen, and the taking of a human life seems no big deal.	NN	17	taking
+372	1	Even if a simple causal relationship cannot be established between watching violence and acting it out, is not this numbed sensitivity reason enough for cutting back on the overkill in films and TV?	JJ	3	simple
+373	0	You would think that the common cold should be easy enough to study, but it is not so easy as it looks.		-1	
+374	1	Colds often seem to spread from one person to another, so it is often assumed that the cold must be infectious, but there are some puzzling observations which do not fit in with this theory.	VB	32	fit
+375	1	An investigator in Holland examined some eight thousand volunteers from different areas and came to the conclusion that in each group the colds all appeared at the same time – transfer of infection from case to case could not account for that.	VBD	13	came
+376	0	Yet at the Common Cold Research Unit in Salisbury the infection theory has been tested out; two series of about two hundred people each were inoculated, one with salt water and the other with secretions from known cold victims.		-1	
+377	1	Young men have strong passions, and tend to gratify them indiscriminately.	VBP	2	have
+378	1	Of the bodily desires, it is the sexual by which they are most swayed and in which they show absence of self-control.	JJ	14	swayed
+379	1	They are changeable and fickle in their desires, which are violent while they last, but quickly over: their impulses are keen but not deep-rooted, and are like sick people’s attacks of hunger and thirst.	IN	5	in
+380	1	They are hot-tempered and quick-tempered, and apt to give way to their anger; bad temper often gets the better of them, for owing to their love of honour they cannot bear being slighted, and are indignant if they imagine themselves unfairly treated.	VB	9	give
+381	1	While they love honour, they love victory still more, for youth is eager for superiority over others, and victory is one form of this.	JJ	14	eager
+382	1	They love both more than they love money, which indeed they love very little, not having yet learnt what it means to be without it.	VBZ	22	means
+383	1	They look at the good side rather than the bad, not having yet witnessed many instances of wickedness.	VBP	1	look
+384	0	They trust others readily, because they have not yet been cheated.		-1	
+385	1	They are sanguine; nature warms their blood as though with excess of wine; and besides that, they have as yet met with few disappointments.	NN	7	blood
+386	1	Their lives are mainly spent not in memory but in expectation, for youth has a long future before it and a short past behind it: on the first day of one’s life one has nothing at all to remember, and can only look forward.	JJ	4	spent
+387	1	They are easily cheated owing to the sanguine disposition just mentioned.	TO	5	to
+388	1	Their hot tempers and hopeful dispositions make them more courageous than older men are; the hot temper prevents fear, and the hopeful disposition creates confidence; we cannot feel fear so long as we are feeling angry, and any expectation of good makes us confident.	JJ	1	hot
+389	1	It is possible to have a glimpse of life after death.	VB	4	have
+390	1	Man has always believed in an afterlife, but only today do we have scientific reports of people who seem to have experienced the sensation of dying but lived to tell about it.	IN	4	in
+391	1	Ongoing research is documenting hundreds of cases each year of the near –death experience (NDE), and scientists think they are finding a clearly identifiable pattern: usually a man is dying and, as he reaches the point of greatest physical distress, he hears himself pronounced dead by his doctor.	VBG	23	finding
+392	1	He begins to hear an uncomfortable noise, a loud ringing or buzzing, and at the same time feels himself moving very rapidly through a long dark tunnel.	IN	15	at
+393	1	After this he suddenly finds himself outside of his own physical body, but still in the immediate physical environment, and he sees his own body from a distance, as though he is a spectator.	IN	0	After
+394	1	He watches the resuscitation attempt from this unusual vantage point and is in a state of emotional upheaval.	IN	5	from
+395	1	After a while, he collects himself and becomes accustomed to his odd condition.	IN	0	After
+396	1	He notices that he still had a ‘body’, but one of a very different nature and with very different powers from the physical body he has left behind.	IN	19	with
+397	1	Soon after, things begin to happen.	IN	1	after
+398	0	Others come to meet and to help him.		-1	
+399	1	He glimpses the spirits of relatives and friends who have already died, and a loving, warm spirit of a kind he has never encountered before- a being of light – appears before him.	NN	15	loving
+400	1	This being asks him a question, non verbally– to make him evaluate his life – and helps him along by showing him a panoramic instantaneous playback of the major events of his life.	DT	0	This
+401	1	Then he finds that he must go back to the earth that the time for his death has not yet come.	VBZ	2	finds
+402	1	At this point he resists, for by now he is taken up with his experiences in the afterlife and does not want to return.	IN	0	At
+403	1	He is overwhelmed by intense feelings of joy, love and peace.	VBN	2	overwhelmed
+404	1	Despite his attitude, though, he somehow reunites with his physical body and lives.	NN	2	attitude
+405	1	By 1910, the motorcar was plainly conquering the highway.	IN	0	By
+406	1	The private car was now part of every rich man’s establishment, although its prices made it as yet an impossible luxury for most of the middle class.	NN	5	part
+407	1	But for the adventuresome youth, there was the motorcycle, a fearsome invention producing accidents and ear –splitting noises.	JJ	12	fearsome
+408	1	Already, the dignified carriages and smart pony-traps were beginning to disappear from the roads, and coachmen and grooms, unless mechanically minded, were finding it more difficult to make a living.	JJ	6	smart
+409	1	The roads, which had gone to sleep since the coming of the railway, now awoke to feverish activity.	VBN	5	gone
+410	1	Cars and motorcycles dashed along them at speeds which rivaled those of the express trains, and the lorry began to appear.	VBN	3	dashed
+411	1	Therefore, the road system was compelled to adapt itself to a volume and speed of traffic for which it had never been intended.	VBN	6	compelled
+412	1	Its complete adaptation was impossible; but the road surface was easily transformed and, during the early years of the century, the dustiness and greasiness of the highways were lessened by tar-spraying.	NN	2	adaptation
+413	1	To widen and straighten the roads and get rid of blind corners and every steep gradient were tasks which had scarcely been tackled before 1914.	VB	7	get
+414	1	The situation was worst of all in towns where not only was any large scheme of road widening usually out of the question, but also where crowding and danger were all too frequently increased by the short-sighted eagerness of town authorities in laying down tramlines.	NN	1	situation
+415	1	Yet it was not only the road system that was in need of readjustment; the nervous system of those who used and dwelt by the roads suffered.	NN	7	system
+416	1	The noises caused by the conversion of the roads into speedways called for a corresponding tightening up of the nerves; and, especially in the towns, the pedestrians who wished to preserve life and limb was compelled to keep his attention continually on the stretch, to practise himself in estimates of the speed of approaching vehicles and to run or jump for his life if he ventured off the pavement.	IN	9	into
+417	1	Those who have been following the arguments for and against the deregulation of the oil industry in Nigeria may have got the impression that deregulation connotes lack of control or indifference on the part of the Government.	DT	0	Those
+418	1	But there is nothing so far from official quarters to suggest that deregulation will cause the Government to relinquish its control of the oil industry because the absence of direct control does not mean that it will surrender all its rights to the entrepreneurs who may want to participate in the industry.	RB	5	far
+419	1	Yet the opposition expressed so far against deregulation stems from the fear that the Government would leave Nigerians at the mercy of a heartless cartel who would command the heights of the oil industry and cause the pump price of fuel to rise above the means of most Nigerians.	VBD	3	expressed
+420	1	As a result of such fears, many Nigerians have become resentful of deregulation and, in fact, the Nigeria Labour Congress(NLC) has threatened to ‘deregulate’ the Government if it should go ahead with the deregulation plan.	IN	16	in
+421	1	But Nigerians have not fared any better with the economy totally in Government control.	IN	7	with
+422	1	Until recently, the most important sectors of the economy were in the hands of the Government.	IN	0	Until
+423	1	Today, the deregulation of some of these sectors has broken its monopoly and introduced healthy competition to make things a little easier for Nigerians.	DT	7	these
+424	1	A good example is the breaking of the stifling monopoly of Nigeria Airways.	NN	5	breaking
+425	1	Today, the traveler is king at the domestic airports as opposed to the struggle that air travel used to be under Nigeria Airways monopoly.	VBG	5	king
+426	1	Before, it was almost easier for a camel to pass through the eye of a needle than for travellers to board a plane.	IN	0	Before
+427	1	Following from this, the apostles of deregulation rightly heap all the blame for the problems associated with petroleum products distribution in this country squarely on the Government, which owns all the refineries and which sells fuel to local consumers through its agency, the Nigerian National PetroleumCorporation (NNPC).	VBG	0	Following
+428	1	In the same way, theGovernment argues that if the current NNPC monopoly were broken with the introduction of entrepreneurs to the refining and sale of petroleum products in the country, the Nigerian people would be all the better for it.	IN	0	In
+429	1	It stands to reason that once the Government continues to fix maximum prices for petroleum products in this country, the deregulation of the oil sector should bring some relief to the people by ensuring that wastage, corruption and inefficiency are reduced to the minimum.	VBZ	1	stands
+430	1	Consumers will also have the last laugh because competition will result in the availability of the products at reasonable prices.	VB	3	have
+431	1	This appears to be the sense in deregulation.	DT	0	This
+432	1	The 2002 World Cup Competition, also called Korea/ Japan 2002, kicked off with a match between the defending champions, France, and the Senegalese national team fromAfrica.	VBD	12	kicked
+433	1	Nobody had given the Senegalese any chance against the star studded defending champions but the 1-0 scoreline in favour of Senegal showed that African football can no longer be taken for granted.	VBN	2	given
+434	1	This shocking defeat of France had raised Africa’s hopes of going beyond the first round of the tournament.	DT	0	This
+435	1	So when the Super Eagles of Nigeria filed out against Argentina on the morning of Sunday, June the second, 2002, many Nigerian football enthusiasts delayed attending church service to watch the match live on television.	VBD	7	filed
+436	1	As expected, the Super Eagles put up strong resistance to the Argentinian challenge and the day would not have ended on a somber note for Nigerians if the momentum had been sustained throughout the match.	VBD	6	put
+437	1	The hope of going beyond the first round, though precarious, was very much alive as the Eagles were expected to defeat their next opponents, Sweden and England.	VBG	3	going
+438	1	But some short comings in the Nigerian national team needed to be rectified to brighten their chances against their next opponents.	JJ	2	short
+439	1	First, the defence needed to be strengthened to prevent the opponents from incessantly terrorizing the goalkeeper.	VBN	7	strengthened
+440	1	Then the strikers also needed to improve on their lackluster performance against Argentina, since every Nigerian expected them to overwhelm their next opponents in the opening rounds.	IN	7	on
+441	1	Lastly, rather than gamble with unfit players, a more creative use of the reserves would be necessary to smooth the way to the next round.	VB	4	gamble
+442	1	If World Cup debutants, Senegal ,could nurse the hope of playing in the knock-out stages of the tournament, then the Eagles should soar instead of being intimidated by big names, for no team is invincible.	VB	8	nurse
+443	1	We knew early in our life that the atmosphere in our home was different from that in many other homes, where husbands and wives quarrel and where there was drunkenness, laziness or indifference – things we never saw in our family.	IN	3	in
+444	1	We chafed and grumbled at the strictness of my father’s regime.	IN	4	at
+445	1	We went to hide whenever we broke the rules too visibly.	VBD	6	broke
+446	1	We knew, nevertheless, that our parents wanted good things for us.	NNS	10	things
+447	1	Some of these, such as the insistence on our going to school and never missing a day, we accepted readily enough, although, like most other children, we occasionally yielded to the temptation to play truant.	DT	2	these
+448	1	However, in other cases such as their effort to keep us out of contact with the difficult life – the drinking and fighting and beer-brewing and gambling – their failure was inevitable.	IN	2	in
+449	1	They could not keep us insulated.	VB	3	keep
+450	1	By the time we moved about, we were already seeing things with their eyes and judging things by the standards we had absorbed from them.	IN	0	By
+451	1	It was borne in on me and my brother at a very early age that our father was an uncommon man.	VBN	2	borne
+452	1	For one thing, in mostAfrican families, work around the home was women's work.	NN	2	thing
+453	0	We were vastly impressed by the fact that whenever my mother was away, my father could and did do all her jobs – cooking, cleaning and looking after us.		-1	
+454	1	We lived in this way in a community in which housework was regarded as being beneath male dignity.	IN	2	in
+455	1	Even in families which, like ours, produced boy after boy – our sister came fifth –  meant that the mother carried a greater and greater burden of work.	IN	1	in
+456	1	In our family, nevertheless, the boys did girl’s work and my father did it with us.	IN	0	In
+457	1	One of the prime chores of life in the family was fetching water from the pump down the street, some two hundred metres from our door.	JJ	3	prime
+458	1	Since the pump was not unlocked until six in the morning and there was always crowding, a system had developed whereby you got out before dawn, placed your twenty-litre tin in line, and then went home, returning later to take your place.	IN	6	until
+459	1	Often, of course, tins would be moved back in line and others moved ahead.	RB	9	back
+460	1	This could be corrected if none of those in front were too big a challenge.	DT	0	This
+461	1	When taps were substituted for the pumps, the first one installed was nearly a kilometre away from our house and we had to make the trek with the water tins balanced on our heads -- and indignity because this was the way girls, not proud males, carried their burdens.	VB	24	make
+462	0	All the children in the neighbourhood knew we did women’s work and I can still hear their derisive laughter.		-1	
+463	1	We did our jobs doggedly, that notwithstanding, because our father and mother expected it of us.	IN	6	that
+464	1	Out of choice our father did everything we did, including fetching water on the occasion, and commanded us by sheer force of his example.	IN	0	Out
+465	1	If once in a lifetime, you see a blue moon, don’t think your eyes are playing tricks on you.	IN	2	in
+466	1	It is caused by dust in our upper atmosphere; ice crystals are what make you see rings around the moon.	VBP	14	make
+467	1	Over the centuries, magical powers have been attributed to the moon.	IN	0	Over
+468	1	It has been said to bring on lunacy, affect the growth of plants, eyes of cats, spots of panthers, functions of women and activities of ghosts.	VB	5	bring
+469	1	France once had a law against cutting timber except during a waning moon.	VBD	2	had
+470	1	The moon and to a lesser degree the sun, does cause the ocean tides because of their gravitational pull.	TO	3	to
+471	1	But a common mistake of primitive people is to think that everything timed in the same rhythm as the moon is caused by it.	IN	13	in
+472	1	All the moon gazing, probing and measuring has never solved the big problem.	JJ	12	big
+473	1	One theory is that it began as a planet, got too near the more massive earth, was captured ‘and turned into a satellite.	IN	23	into
+474	0	Another is that the moon is the result of a giant tidal bulge forming on our earth’s surface, separating, then spinning off into space.		-1	
+475	1	If the latter theory is true, scientists say, there would be two clues; the moon would consist of lighter material than the earth, and the earth would be left with a scar.	VBN	32	left
+476	0	As a matter of fact, the moon does weigh less.		-1	
+477	1	And the Pacific Ocean does have a scar like bottom of basaltic rocks instead of the granite rocks instead of the granite rocks usually found near the earth’s surface.	VB	5	have
+478	1	But the assumption that, if man can get to the moon, he’ll find the answer is unfounded.	IN	16	find
+479	1	Man has been on the earth hundreds of thousands of years without determining the earth’s origin.	IN	11	without
+480	0	Scientists, of course, will never give up either quest.		-1	
+481	1	Indeed, ‘for thousands of years the moon has worked a spell of fascination over all the people on its near neighbour, the earth.	VBN	10	worked
+482	1	The ancient worshiped this lamp in the sky and speculated about it endlessly.	DT	3	this
+483	1	Modern astronomers continue to explore its mysteries almost every night of the year, and with reason.	VB	4	explore
+484	1	Age’s ego, before artificial light was known, it was known, it was important as illumination at night.	IN	20	at
+485	1	As everyone knows, the moon has no light of its own; it shines with the cold reflection of the distant sun, but actually the moon is a poor mirror, reflecting only a fourteenth of the sunlight received.	VBZ	6	has
+486	1	The earth reflects a third of its sunlight providing its satellite with ‘earth light ‘sixty times as bright as the best moonlight.	VBZ	2	reflects
+487	1	That’s why we sometimes see the whole moon faintly when the sun is lighting up only a narrow crescent.	DT	0	That
+488	1	In 1962, a team of scientists produced a special radio station that had a range of fifteen miles.	IN	0	In
+489	1	Even though communication was being accomplished in space at a range of more than a million times this distance, the new radio station caused much excitement among scientists.	DT	17	this
+490	1	The reason: its power supply was a ‘battery’ made of bacteria.	NN	5	supply
+491	1	For the first time, practical amounts of electricity were being produced by a form of life and put to use.	VBN	11	produced
+492	1	Bio cell, the new power supply had a liquid fuel containing tiny forms of life that changed the fuel directly into electric energy; this was far more than an interesting experiment.	NN	6	supply
+493	1	The bio cell is being developed as producers of electricity for radio, for signal to guide ships, for lighting and other uses.	NNS	7	producers
+494	1	Though the working bio cell is only a few years old, some scientists feel that it will one day produce power cheaply as is now being done by other methods, and that the bio cell will use materials that would otherwise be considered a waste.	VBG	2	working
+495	1	Early bio cells were powered with sugar, but a wide range of fuel can be used.	JJ	10	wide
+496	0	Work is being done using sea water to feed the bacteria.		-1	
+497	0	Electricity from living cells is no new idea.		-1	
+498	1	Man experienced the strange shock produced by some fish even before electricity was really discovered.	NN	4	shock
+499	1	Then in time, there were other discoveries.	IN	1	in
+500	1	Benjamin Franklin found that lightning in the sky was electricity.	VBD	2	found
+501	1	Luigi Galvani found some electricity in the muscles and nerves of animals, but the African catfish produce far more electricity than most other living creatures.	VBD	2	found
+502	1	Another fish, the electric eel, well named, for it has an even greater electric charge.	VBZ	12	has
+503	1	Research works also discovered that even humans produce small amounts of electricity in their bodies.	VBN	3	discovered
+504	1	Our heart produces a very small amount that can be measured, so does our brain.	VBZ	2	produces
+505	1	The bio cell is completely new in the field of power production and as yet, no mass-production models have begun to replace the older type of batteries.	IN	6	in
+506	1	It might be wondered, then, what the excitement is all about.	IN	12	about
+507	1	Like a clock with the pendulum in full swing, the mind moves as fast as time.	IN	3	with
+508	1	But we ought to mind our thoughts for if they turn out to be our enemies, they will be too many for us and will drag us down to ruin.	VBP	10	turn
+509	1	But some people may say that they cannot help having bad thoughts even though they sting like vipers.	VB	9	help
+510	1	That may be so, but the question is, do they hate them or not?	DT	0	That
+511	1	We cannot keep thieves from looking in our window, but if we open our doors to them and receive them joyfully, we are as bad as them.	VB	3	keep
+512	1	We cannot help the birds flying over our head; but we may keep them from building their nets in our hair.	VB	14	keep
+513	1	Vain thoughts will knock at the door but we must not open to them.	VB	3	knock
+514	1	Though bad and evil thoughts rise in our hearts, they must not be allowed to reign.	NN	5	rise
+515	1	He who turns a morsel over and over in his mouth does so because he likes the flavour, and he who meditates upon evil, loves it, and is ripe to commit it.	IN	23	upon
+516	1	Think of the devil, and he will appear, turn your thought toward evil and your hands will soon follow.	VB	10	turn
+517	1	Snails leave their slime behind them, and so do vain thoughts.	JJR	10	vain
+518	1	An arrow may fly through the air, and leaves no trace, but an evil thought always leaves a trail like a serpent.	VBZ	9	leaves
+519	0	Where there is much traffic of bad thinking, there will be much mire and dirt.		-1	
+520	1	Every wave of wicked thought adds something to the corruption which rots upon the shore of life.	NN	1	wave
+521	1	It is dreadful to think that a vile imagination, once indulged, gets the key of our minds, and can get in again very easily, whether or not we let it in, and what may follow, no one knows.	JJ	7	vile
+522	1	Nurse evil on the laps of thought, and it will grow into a giant.	IN	2	on
+523	1	Therefore; there is wisdom in watching every day, the thought and imagination of our heart.	IN	5	in
+524	1	Good thoughts are blessed guests and should be welcome, and much sought after, but bad thoughts must fly out as swiftly as they move in.	VBN	3	blessed
+525	1	Though assumption is the lowest level of knowledge; it is still a form of knowledge, and knowledge is key.	JJS	4	lowest
+526	1	Assumptions are the foundation upon which interpretation and conclusion are built.	NN	3	foundation
+527	1	Everything in life operates under certain assumptions.	IN	1	in
+528	1	We make management decisions based on the assumptions we hold about how management ought to function and how people ought to be governed.	VBP	1	make
+529	1	For some of us, we consciously imbibe assumptions and principles about life and consciously decide based on them; for others, it is unconsciously but potent all the same.	IN	11	about
+530	1	Our assumptions will either drown us or help us soar through life.	JJ	4	drown
+531	1	We have always seen life as an immense mansion with many rooms.	VBN	3	seen
+532	1	Some rooms lead to wealth, others to the opposite.	VBP	2	lead
+533	1	Ultimately, we decide where we end up; and life, thus far, has proved that not everyone of us decides well, we all behave differently where we have different levels of understanding, and behave the way where our understanding is the same.	RP	7	up
+534	0	We eat because we all understand the consequences of not eating.		-1	
+535	0	We all wear clothes because each of us comprehends lunacy.		-1	
+536	1	The list goes on and on.	VBZ	2	goes
+537	1	It is inevitable that some of us will make choices that get and keep us on the lower rung of the ladder by reason of exposure, training or some other variables.	VB	8	make
+538	1	Life is about role playing.	IN	2	about
+539	0	We choose our roles wisely or foolishly, consciously or unconsciously.		-1	
+540	1	Some of us get wiser to new levels of self awareness enough to redefine our roles, others make no effort to build further capacity and therefore remain where they are.	TO	5	to
+541	1	It is based on those realities that we draw the conclusion that not everyone will be wealthy in life.	VBN	2	based
+542	0	We lead, inspire and motivate people to strive and succeed.		-1	
+543	1	It is also important that we paint the full and true picture of life so that we can discourage vain pursuits.	VBP	6	paint
+544	1	Balance must be enthroned as a critical component of truth, and people know, for instance, that ‘the top’ is not a place that all must ascend.	NN	0	Balance
+545	1	Our greatest consolation lies in our deep conviction that true prosperity is in fulfilment through hard work rather than intangible acquisition.	VBZ	3	lies
+546	1	There are set roles that some of us have been wired up to play in life but which we are not content enough to play because society esteems such roles to be inferior.	VBN	2	set
+547	1	Take the almost sacred office of a teacher for instance; there are people who have the natural gifts and inclinations to be a school teacher.	VB	0	Take
+548	0	But the teaching profession, as it is, does not appear to be lucrative.		-1	
+549	1	So we have people who could have been more fulfilled and effective working as school teachers serving in banks.	VBP	2	have
+550	1	Religion in its various forms is very strong in Nigeria.	IN	1	in
+551	1	In other words, Nigerian people are very religious.	IN	0	In
+552	1	Most of them believe that there is an unseen supernatural world, apart from the natural world we see around us.	NN	10	world
+553	1	This other world is inhabited by beings who are the source of our knowledge of good and evil.	DT	0	This
+554	1	They watch and judge us and if we offend them they may have to be appeased with prayers and sacrifices.	IN	16	with
+555	1	Certain individuals in the natural world-priest, prophets and diviners – are believed to be endowed with special powers to make contact with the other world.	IN	2	in
+556	1	These individuals lay down ceremonies or rituals which must be observed if due honour is to be paid to the unseen beings.	DT	0	These
+557	1	The religious beliefs and practices of Nigerians can be classified under three main headings: Traditional religion, Islam and Christianity.	IN	10	under
+558	1	In this passage, our focus is on Traditional Religion.	IN	0	In
+559	1	Traditional or indigenous religion continues to exert a strong influence on many people’s minds partly because of its association with their birth places and families.	VB	6	exert
+560	1	Each ethnic group has its own religious traditions, and these are often linked to some sacred spots in the ethnic homeland.	VBZ	3	has
+561	1	Yet the various traditional religions have much in common: a remote but benevolent high god; under him, a number of lesser gods who interact with mankind; and below them various spirits who inhabit natural objects (trees, streams, rocks, etc.); below them again, and closest to living men and women, the spirits of the ancestors.	VBP	5	have
+562	1	In Yoruba tradition, for example, there are more than 400 lesser deities presided over by the high god, Olorun.	IN	0	In
+563	1	Because he is remote from mankind, shrines are not built for him and worship is not offered to him directly.	TO	18	to
+564	1	The lesser gods, on the other hand, are the subject of special cults, each with its own priest and devotees.	IN	4	on
+565	1	Eshu, the messenger of the Gods; Ifa, the god of divination; Shango, the god of thunder, and so on.	IN	24	on
+566	1	Traditional religion was also strong in other parts of Nigeria.	JJ	4	strong
+567	1	In Igbo traditional religion, there were fewer gods.	IN	0	In
+568	0	Although there was a remote high god, the most important figure was Ala or Ani, the goddess of the earth.		-1	
+569	1	In Hausa land, traditional religion has largely gone underground owing to the influence of Islam, but belief in the existence of ‘Bori‘ spirits and their power to possess people, especially women, is strong in some areas.	VBN	8	gone
+570	1	Each spirit is associated with a certain type of behaviour, which is manifested by the possessed individual.	NN	1	spirit
+571	1	Divination – the discovery of what is unknown or is yet to happen by supernatural or magical means – is an important element of traditional religion.	NNS	17	means
+572	0	It is often one of the functions of ‘medicine men’ or ‘herbalists’.		-1	
+573	1	In Igboland, there also used to be several oracles which people consulted in order to seek solutions to their problems.	VB	16	seek
+574	1	With the coming of Christianity, their influence has however waned, but in areas like Arochukwu and Okija, the influence of such oracles is still strongly felt.	IN	0	With
+575	1	Recently, literally research reveals that Nigerians hardly have time to read.	NNS	4	reveals
+576	1	In essence, the reading culture in Nigeria is now at a low ebb.	IN	0	In
+577	1	It is disturbing, however, that the few Nigerians that read concentrates on foreign books rather than indigenous productions.	IN	13	on
+578	1	Most Nigerian authors of novels, storybooks, fiction and non-fiction series have decried, on different occasions, their woes.	IN	15	on
+579	1	They were bitter in the way most owners of bookshops and publishers treat them.	JJ	2	bitter
+580	1	It was gathered that most renowned bookshops in Nigeria hardly sell books written by indigenous authors.	VBN	2	gathered
+581	0	They preferred to stock foreign books.		-1	
+582	1	When contacted by DAILY INDEPENDENT, the general manager of popular bookstore in Lagos Island declared that most of the bookshops preferred to stock foreign books because of higher demands for them, the question that bothers most Nigerian authors is, while their overseas counterparts are being rewarded with great international honors, why are Nigerians not according them such recognition in their own country?	NN	23	stock
+583	1	Recently, Nigerian novelist, Chimamanda Ngozi Adichie won the 2007 Orange Prize Award, the literary world’s top award for fiction in English written by women.	JJ	20	top
+584	1	The award carries a prize tag of $30,000.	VBZ	2	carries
+585	1	It was reported in Publishers Weekly, Half of a Yellow Sun, the book that earned her the award, was profoundly gripping.	IN	3	in
+586	1	According to the reviewer, the book is a ‘transcendent novel of many descriptive triumphs, most notably its diction of the impact of war brutalities on peasants and intellectuals alike.	TO	1	to
+587	1	It is a searing history in fictional form, intensely evocative and immensely absorbing’.	IN	5	in
+588	1	Chinua Achebe, ‘Father of Modern African Literature’, also won the second ever Man Booker international Prize of “£60,000 with his first novel Things Fall Apart, published in 1958.’	NNP	4	Father
+589	1	When Professor Wole Soyinka won the Nobel Prize for Literature in 1986, the fame confirmed the relevance of Nigerians in the world of classical excellence.	IN	10	in
+590	1	Ben Okri won the 1991 Booker Prize with his work, The Famished Road, and the world celebrated Nigeria as the giant of Africa.	IN	7	with
+591	1	It was also gathered that most of the publishers hurriedly produce books and in the process marred their good contents.	VBN	3	gathered
+592	1	Most of the books are not properly edited and actually become substandard when compared with the foreign products.	IN	14	with
+593	1	The extent to which book publishing standards have fallen in Nigeria is alarming.	NN	1	extent
+594	1	Often Nigerian publishers have been blamed for this.	DT	7	this
+595	1	It is instructive that none of the books mentioned had been published in Nigerian.	IN	12	in
+596	1	It was discovered that most students in tertiary institutions depend on dictations from their lecturers and/or handouts.	VBN	2	discovered
+597	1	A science lecturer in one of the Nigerian universities, who had been a victim of handout sales scandal, told DAILY INDEPENDENT the reality of campus challenges in relation to books.	NN	14	victim
+598	1	‘I was to dictate notes slowly to students who hung on every word in the absence of textbooks in a library that had, to all intent and purpose, stopped buying new books when the local currency devalued.	TO	3	to
+599	1	But what other alternative does one have?	VB	6	have
+600	1	It is said that experience is the best teacher, but to learn consciously through wisdom may even be a better and more convenient way.	NN	8	teacher
+601	1	To learn by experience is to learn from mistakes.	IN	7	from
+602	1	It means you have burnt your fingers and now ‘your eyes are open’.	VBZ	1	means
+603	1	This is a tough, costly and inconvenient way to learn.	DT	0	This
+604	1	Rather than leaving our learning to experience, why do we not learn consciously through wisdom?	VBG	2	leaving
+605	1	We can learn by consciously going out of our way to acquire knowledge and wisdom rather than leave our learning to chance.	IN	6	out
+606	1	Surely, we can learn from mistakes but why wait till when we make mistakes before we learn?	IN	5	from
+607	1	We should give more premium to learning by wisdom than by experience.	VB	2	give
+608	1	This will involve one making up one's mind to be decisive in learning.	DT	0	This
+609	1	We must decide to learn consciously and not necessarily from negative experiences.	IN	9	from
+610	1	The first step is to realize that life is simply the outcomes and outplay of decisions.	NN	2	step
+611	0	Our life now is the sum total of our decisions and our future will be determined by our decision of today.		-1	
+612	1	If we decide to learn today, we are not likely to make mistakes and when we do not make mistakes.	VB	12	make
+613	0	Experience need not to be our best teacher.		-1	
+614	1	To avoid making experience our best teacher will take more than a decision.	VB	1	avoid
+615	1	We must couple our decision with a complete and wholehearted devotion.	VB	2	couple
+616	1	We must be resolved, resolute and resilient in our bid to learn by wisdom and not necessarily by experience.	IN	8	in
+617	1	This is crucial because situations and circumstances will want us to make a detour and leave our learning and life to chance.	DT	0	This
+618	1	We must therefore be disciplined to remain with our resolve to make a clean break with experience as our best teacher.	IN	7	with
+619	1	Discipline in this regard means learning something new every day by wisdom rather than experience.	IN	1	in
+620	1	It means consciously getting better by the day in you chosen field.	VBZ	1	means
+621	1	Discipline will demand taking advantage of every learning opportunity that comes our way.	VB	2	demand
+622	1	It will mean we must pay the price for learning by wisdom – invest in books, magazines, seminars and other means by which we may become wiser.	VB	2	mean
+623	0	It is much easier and cheaper to learn consciously by wisdom than to learn by experience.		-1	
+624	1	When we learn by experience, the deed is done and we are just picking up the pieces – learning in regret how to avoid such predicament next time.	NNS	17	pieces
+625	1	Consider the child who grasps a burning coal, he has learned the hard way through the painful experience, but his fingers will remain burnt.	JJ	13	hard
+626	1	Thus, the saying, that experience is the best teacher, may not be justifiable after all.	NN	10	teacher
+627	1	In 1951, the Government decided to start a Pottery Training Centre where new and more advanced technical methods, especially glazing, could be taught.	IN	0	In
+628	1	The centre was intended to serve the whole of the defunct Northern Region, and there were several reasons for choosing Abuja.	NN	1	centre
+629	0	The first was the excellence of the traditional pottery made in the Emirate.		-1	
+630	1	Secondly, fire-wood is plentiful; this is a most important consideration, because in the making of glazed pottery, more firewood than clay is required.	DT	6	this
+631	1	Thirdly, there are good clays, and good local sources for the raw materials needed for the glazes.	NNS	10	sources
+632	0	Fourthly, water, which is an-other important raw material, is plentiful.		-1	
+633	1	Finally, Abuja is in a central position for the whole region and is a town where learners from many different parts can find a congenial temporary home, and where the Emir and his Council are actively interested in the project.	IN	4	in
+634	0	Nearly all the making is done by a process called ‘throwing’, so called because the lumps of clay are thrown by the potter onto a wheel-head.		-1	
+635	0	They are weighed out so that each pot will be roughly the same size; for example, for making pint-sized jugs, the lumps of clay will be one and a half kilogrammes.		-1	
+636	0	The potter sits on the saddle of the wheel and spins it by pushing a pedal with his left foot.		-1	
+637	0	He has a bowl of water, a loofah, a bamboo knife, a pointed stick or porcupine quill, a wooden smoothing tool which potters call a rib, and a piece of wire-like object that is used for wedging.		-1	
+638	0	He makes the wheel-head slightly damp, and throws the lumps into the middle.		-1	
+639	1	The first work is to force the lump to the centre, then he presses his thumb into the middle of the lump, using water to keep it slippery.	VB	27	keep
+640	0	When the bottom is of the right thickness, he begins to draw up the walls until they are of the right height.		-1	
+641	0	Then he shapes the belly and shoulder of the pot.		-1	
+642	0	He trims off any waste clay.		-1	
+643	1	In this way, a small and medium sized pot can be made more quickly and accurately.	IN	0	In
+644	1	Music plays a vital role in human society.	VBZ	1	plays
+645	1	Good music provides entertainment and emotional release, and it accompanies activities ranging from dances to religious ceremonies.	NN	6	release
+646	0	Music is heard everywhere; in auditoriums, homes, elevators, schools, sports arenas and on the streets.		-1	
+647	1	Recorded performance is a sensational innovation elevation of the twentieth century.	NN	6	elevation
+648	1	Thanks to modern technology like compact disc (CD) digital video disc (DVD) and the MP 3 player, music can now be heard in diverse places.	TO	1	to
+649	0	Such places include living rooms and cars, jogging paths can also function as new kinds of concert halls where we can hear what we want as often as we want.		-1	
+650	0	Live performances provide a special excitement.		-1	
+651	1	In a live performance artistes put themselves on the line.	IN	0	In
+652	1	To avoid embarrassment, the artiste must train beforehand and ensure that technical difficulties are avoided and that the listeners are actively involved.	VB	1	avoid
+653	1	What is performed, how it sounds to the excitement of such a moment and feelings are exchanged between stage and hall.	TO	7	to
+654	1	Our response to a musical performance or an artist is subjective and rooted in deep feelings.	NN	1	response
+655	1	Even professional critics can differ strongly in their evaluations of a performance.	RB	5	strongly
+656	1	There is no one ''Truth'' about what we hear and feel.	IN	7	about
+657	1	Does the performed project a concept, an overall idea, or an emotion?	NN	3	project
+658	1	Do some sections of a piece, but not others, communicate something to you?	VB	11	communicate
+659	0	Can you figure out why?		-1	
+660	1	It is up to us as listeners to evaluate performances of music so that we can fully enjoy it.	IN	2	up
+661	1	People listen to music in many different ways.	TO	2	to
+662	1	For instance, music can be a barely perceived background as in a film or a totally absorbing experience as in a concert.	RP	9	background
+663	1	Political change and social transformation in the form of revolutions have radically altered the course of human civilization and history.	IN	5	in
+664	1	Today, the world is witnessing political and social changes arising from the desire of people all over the globe for greater freedom and a voice in the way they are governed and a better standard of living.	VBG	5	witnessing
+665	1	Part of these struggles and processes have become more pronounced in the third world since the end of the east west cold war in the late 1980s, and in the face of the challenges being posed by the ongoing process of globalization.	NN	0	Part
+666	0	While political and social changes may appear to be distinct phenomena, they are analytically inseparable.		-1	
+667	1	Political and social changes refer to alteration or transformations in human behaviour, norms and politicosocial institutions.	TO	5	to
+668	1	Such changes are often a collective response to the need to change, or as a tacit recognition of a shift in the prevalent power relations in the society.	NN	6	response
+669	1	Therefore, the coming to power of new sets of rulers, or the establishment of new structures and processes of governance broadly typifies sociopolitical changes.	VBG	3	coming
+670	1	It is important to note that change can either be positive or negative.	VB	4	note
+671	0	In most cases, political and social changes are caused by certain factors or reasons.		-1	
+672	1	These push people to collectively organize themselves to struggle for a change in the existing power relations.	DT	0	These
+673	1	Another reason is to capture political power, in the hope of making life better for the generality of the people.	VB	4	capture
+674	1	If politics is defined as who gets what, when and how; it then implies that political change refers to an alteration in the form of power, and the identity of the group or class which controls and wields state power.	VBZ	6	gets
+675	1	Like all reptiles, snakes are coldblooded, or more correctly, ectodermic- they cannot produce their own body heat; instead, they rely on the sun to heat their bodies.	VB	16	produce
+676	1	Because they do not rely on energy from food to generate body heat; snakes can survive on an extremely meagre diet.	IN	5	on
+677	1	Some wait for months between successive meals and a few survive by eating a large meal just once or twice a year.	IN	4	between
+678	0	When they do eat, snakes swallow their prey whole rather than biting off small pieces.		-1	
+679	1	Many snakes have specialized jaws that enable them to swallow animals that are far larger than their own heads.	RB	13	far
+680	0	Although uncommon, some snakes, such as the African rock python, have been observed eating animals as large as an antelope or a small cow.		-1	
+681	1	With over two thousand five hundred species belonging to more than ten families, snakes are a large and successful group.	IN	0	With
+682	1	They owe much of this success to their versatility; snakes occupy habitat ranging from underground burrows to the top of the tree, to ocean depths as great as one hundred and fifty meters.	VBP	1	owe
+683	0	They are found on every continent except Antarctica , and although they are most abundant in tropical areas, many survive in regions marked by extreme cold.		-1	
+684	1	The only places without snakes are parts of the Polar Regions and isolated islands, such as the republic of Ireland and NewZealand as opposed to places in Nigeria like plateau and Gombe states in the northern parts where there is a large population of snakes.	IN	3	without
+685	1	There are many different approaches to conflict management, each of which may have utility in particular circumstances.	NNS	4	approaches
+686	1	A great deal of scholarship has been devoted to analysing how and in what situations different approaches can be applied most effectively.	JJ	1	great
+687	1	Conflict management approaches can be classified into two broad categories.	NNS	2	approaches
+688	1	Firstly, on the basis of the level of escalation in which the particular conflict is being managed.	IN	2	on
+689	1	In this sense, one can distinguish between the peaceful and the 'military' approaches.	IN	0	In
+690	1	The trademarks of the peaceful approach are negotiation, verbal persuasion, use of inducements, denial of privileges, and subtle manipulation short of the use of physical forces, while those of the military approach relate to the use of physical coercion.	NNS	1	trademarks
+691	1	The use of physical force could be by a party to a conflict or third party, to promote one side's interest, impose a settlement, or create a situation in which diplomatic negotiations can occur.	TO	10	to
+692	1	Secondly, conflict management approaches can also be classified according to the status of the participants in the bargaining process.	NNS	4	approaches
+693	1	For example, a conflict could be managed through 'negotiation', that is, direct bargaining by the parties involved in the conflict; or through 'mediation', that is with the help of a third party.	VBN	7	managed
+694	1	The African moralist has always regarded smoking as an indication of moral degradation.	VBN	5	regarded
+695	1	A number of people have accepted the moralist idea on smoking while a good many people have remained indifferent to the moralist view and have continued to smoke.	IN	9	on
+696	1	The same argument has been applied to the consumption of alcohol.	VBN	5	applied
+697	1	The African moralist, basing his judgement on the behaviour of a few alcoholics, tends to regard the habit of taking alcohol as a sign of wretchedness.	IN	7	on
+698	1	The moralist holds the view that anybody who forms the habit of consuming alcohol will never do well in life.	VBZ	2	holds
+699	1	While this may be true in respect of a few people in the society, the fear of the moralist has not been justified.	DT	1	this
+700	1	However, the economist is primarily interested in the habit of smoking and the consumption of alcohol in so far as they give satisfaction to smokers and drinkers and so generate supply of and demand for tobacco and alcohol.	IN	7	in
+701	1	Some moral principles associated with religion tend to lead to economic problems.	IN	4	with
+702	1	Followers of certain religions are expected not to consume pork, take alcohol or smoke tobacco.	VB	11	take
+703	1	Devotees of some religious groups, on the other hand, can eat pork while others are expected to abstain from alcohol and smoking.	IN	6	on
+704	1	Strict observance of these moral rules could cripple the breweries, the cigarette factories and some businesses; however, there seems to be a growing number of alcohol consumers and cigarette smokers-a development which should be of interest to the economist.	DT	3	these
+705	1	When man evolved a conscience, his basic relationship with the other animals began to change.	VBD	2	evolved
+706	1	Until then, they were broadly divided into those which ate him when they got the chance, those which he ate when he got the chance, and a third group which competed with him for food, or was otherwise a nuisance to him in the business of keeping alive.	IN	0	Until
+707	1	In the primitive situation, man was, therefore, basically against nature but, as the battle was progressively won, conscience crept in; the awareness of responsibility, and a failure to meet it, produced feelings of guilt.	IN	0	In
+708	1	Those who live in cities and need no longer battle against nature are nowadays most active for nature.	DT	0	Those
+709	1	At this time, something like a thousand kinds of animals (vertebrate animals) can be said to be in danger of extinction.	IN	0	At
+710	1	A few of them have been reduced to this precarious position by extensive killing but the majority are disappearing only as fast as the particular kind of country they need for existence is itself disappearing and all the hands of man, as often as not by mistake.	VBN	6	reduced
+711	0	There are three species of turtles whose future survival is menaced by the demand for turtle soup, which would hardly justify the extermination of a giant reptile whose family has existed for 200 million years.		-1	
+712	1	Leopards are in jeopardy because of the fashion for their skins.	IN	2	in
+713	1	As they get rarer, the prices rise and, as leopard skin becomes more expensive, the demand increases.	NN	7	rise
+714	1	No species can long survive the price of N60,000 which a half grown baby leopard now carries on its skin.	VB	4	survive
+715	1	And crocodiles, the longest surviving reptiles, are now dwindling alarmingly as a result of the fashion in crocodile skin for ladies' handbags and men's shoes.	IN	18	in
+716	1	The human population explosion spreads mankind across the land surfaces of the earth at an alarming rate.	NNS	4	spreads
+717	1	There will be twice as many of us before most of us are dead.	IN	8	before
+718	1	Does this mean no room for wild animals?	DT	1	this
+719	0	Of course not.		-1	
+720	1	Anthropologists tell us that for a society to remain stable, the roles of men and women must be properly differentiated and well defined.	VBP	1	tell
+721	1	In primitive societies, the men were assigned the roles of going out to hunt, fish and fight off the hostile tribe next door while the women did the housekeeping and minded the children.	IN	0	In
+722	1	The men were believed to be superior to the women in physical strength and capability.	TO	4	to
+723	1	There was a controversy in these societies as to what the roles of the sexes should be.	DT	5	these
+724	1	Consequently, primitive societies enjoyed great stability.	VBN	4	enjoyed
+725	1	However, with the advancement of civilization, many of the special privileges traditionally enjoyed by men began to be eroded one after another.	IN	2	with
+726	1	There is hardly any sphere of human endeavor in which women have not gained a firm foothold: there are women doctors, engineers, pilots, prime ministers, judges, bankers and so on.	NN	4	sphere
+727	1	Today, the women's spheres of operation are no longer restricted to the home; she is successfully competing with her counterpart in every area of human activity.	NNS	5	spheres
+728	1	But has this development been an unqualified blessing to the society?	DT	2	this
+729	1	To answer this question, let us examine some of the problems created in the process of achieving women's emancipation.	DT	2	this
+730	1	First, a large number of women including the married ones and mothers now take up paid employment.	JJ	3	large
+731	1	The conditions attached to such employment make it extremely difficult if not impossible for them to take adequate care of their children at homes.	VBN	2	attached
+732	0	Since no one serves two masters, the health and education of the children suffer tremendously.		-1	
+733	1	Returning home after a decade and half abroad, our Geography master remained incurably addicted to foreign ways and ideas for years after landing here.	IN	2	after
+734	1	He would forever stick to his theory of Africans suffering from a curse inflicted on them by the Almighty God for some heinous sins committed centuries ago.	VB	3	stick
+735	1	He would, in support of this theory, ask listeners: "Why would our mosquito inflict deadly malaria on us whereas the British mosquito does not bite? Why aren't there poisonous snakes in Britain whereas here most snakes are deadly? Why should the deadly sickle cell disease be peculiar to the black race?"	NN	4	support
+736	1	Of course, he hardly waits for answers to these and similar questions before jumping to the same inevitable conclusion.	TO	8	to
+737	1	However, he met his match one day when a new student joined the class and heard the litany we were used to.	NN	5	match
+738	1	The new boy calmly said, "Sir, I happen to know a few white men who suffer from sickle cell disease; some are Italians and some are Spanish.	IN	19	from
+739	0	The mosquito is equally deadly in India, South-east Asian Countries and South America.		-1	
+740	1	The United States and some other South American 5 Countries have their deadly snakes.	VBP	10	have
+741	1	And, Sir, I know many white men, some of them British, who would prefer our brilliant sunshine to their horribly cold winter."	JJ	19	brilliant
+742	0	And he sat down.		-1	
+743	1	I had never, before that day, seen our master so consumed with anger.	IN	4	before
+744	1	He directed a burning look at the poor boy, who had no answer to this new battle.	VBD	1	directed
+745	1	Without as much as saying a single word, the master stalked out of the classroom.	IN	0	Without
+746	1	Needless to say, our anger was turned on the new boy, who had decided to rock the boat without taking the time to sound the water.	VBN	7	turned
+747	1	A delegation was sent to the master to apologise to him.	TO	4	to
+748	0	He was appeased.		-1	
+749	1	But we all noticed something rather unusual thereafter never again did he dwell on the issue of Africans being the cursed people.	VB	12	dwell
